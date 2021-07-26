@@ -21,7 +21,7 @@ fully populated. It's written in php-cli, and it's a little hacky in parts. It w
 with Gandi's API only, which means there is no requirement for running your own BIND
 server. Feel free to port this to python if you don't like semi-hacky php-cli code.
 
-Monero DNS seeds are live at:
+Amero DNS seeds are live at:
 
 seeds.amerocrypto.com
 
