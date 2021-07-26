@@ -1,17 +1,16 @@
 -----------------
-Monero DNS Seeder
+Amero DNS Seeder
 -----------------
 
-Copyright (c) 2014, The Monero Project
+Copyright (c) 2014, The Amero / Monero Projects
 
 ---------------------
 Development Resources
 ---------------------
 
-Web: monero.cc
-Mail: dev@monero.cc
-Github: https://github.com/monero-project/xmr-seeder
-IRC: #monero-dev on Freenode
+Web: amerocrypto.com
+Mail: dev@amerocrypto.com
+Github: https://github.com/amerocrypto/amx-seeder
 
 ------------------
 About this Project
@@ -24,10 +23,7 @@ server. Feel free to port this to python if you don't like semi-hacky php-cli co
 
 Monero DNS seeds are live at:
 
-seeds.moneroseeds.ch
-seeds.moneroseeds.li
-seeds.moneroseeds.ae.org
-seeds.moneroseeds.se
+seeds.amerocrypto.com
 
 -------
 License
